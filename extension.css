@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding: .7rem 8rem .7rem .7rem;
+    margin-bottom: .4em;
+    border-color: #5f9341;
+    border-style: solid;
+    box-sizing: border-box;
+    
+
+}
+
+button{
+    background-color: #5f9341;
+    color: #fff;
+    padding: 10px 20px;
+    border: #5f9341 2px solid;
+    font-weight: bold;
+
+}
+
+#delete-btn {
+    background-color: #fff;
+    border: #5f9341 2px solid;
+    color: #5f9341 ;
+
+}
+/* #5f9341 */
